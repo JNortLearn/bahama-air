@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BC199B098FD56A4F5908761180556B6803F5E73E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BC199B098FD56A4F5908761180556B6803F5E73E" : 9223372036854775807,
+    "D7A50C65861DD45AAB6470339DF3B16433699460" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8CF6332E-ACBF-4EE6-BB59-9D919D87437A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BC199B098FD56A4F5908761180556B6803F5E73E" : "bahama-air\/",
+    "D7A50C65861DD45AAB6470339DF3B16433699460" : "Chapter%2002"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BahamaAirLoginScreen",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BahamaAirLoginScreen.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/JNortLearn\/bahama-air.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC199B098FD56A4F5908761180556B6803F5E73E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rw-iAT\/chapter-02-getting-started.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7A50C65861DD45AAB6470339DF3B16433699460"
+    }
+  ]
+}

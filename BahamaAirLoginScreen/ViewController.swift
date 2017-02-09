@@ -171,8 +171,8 @@ class ViewController: UIViewController {
         label.text = messages[index]
         
         UIView.transition(with: status, 
-                          duration: 0.33,
-                          options: [.curveEaseOut, .transitionCurlDown], animations: {
+                          duration: 1.0,
+                          options: [.curveEaseOut, .transitionFlipFromBottom], animations: {
                             self.status.isHidden = false
         }, completion: { _ in
             delay(2.0) { 
